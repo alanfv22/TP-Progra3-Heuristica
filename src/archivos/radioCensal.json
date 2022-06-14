@@ -1,0 +1,101 @@
+{
+  "vecinos": [
+    [
+      1,
+      3
+    ],
+    [
+      0,
+      2,
+      4
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      0,
+      4,
+      6
+    ],
+    [
+      1,
+      3,
+      5,
+      7
+    ],
+    [
+      2,
+      4,
+      8
+    ],
+    [
+      3,
+      7,
+      9
+    ],
+    [
+      4,
+      6,
+      8,
+      10
+    ],
+    [
+      5,
+      7,
+      11
+    ],
+    [
+      6,
+      10
+    ],
+    [
+      7,
+      9,
+      11
+    ],
+    [
+      8,
+      10
+    ]
+  ],
+  "cantManzanas": 12,
+  "censistas": [
+    {
+      "ID": 0,
+      "nombre": "Alan"
+    },
+    {
+      "ID": 1,
+      "nombre": "Guadalupe"
+    },
+    {
+      "ID": 2,
+      "nombre": "Agustina"
+    },
+    {
+      "ID": 3,
+      "nombre": "Federico"
+    },
+    {
+      "ID": 4,
+      "nombre": "Daniel"
+    },
+    {
+      "ID": 5,
+      "nombre": "Patricia"
+    },
+    {
+      "ID": 6,
+      "nombre": "Javier"
+    },
+    {
+      "ID": 7,
+      "nombre": "Maria"
+    },
+    {
+      "ID": 8,
+      "nombre": "Luis"
+    }
+  ]
+}
